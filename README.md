@@ -1,6 +1,6 @@
 Welcome to our website, where we make standing profiles for you that can be used to sell your skills to the whole world. With our company, you can connect with people all over the world and showcase your best skills to a global audience.
 
-*Services*
+__Services__
 We offer a wide range of services to help you build and showcase your profile. Browse our services to find the one that suits your needs best.
 
 ##Achievements
