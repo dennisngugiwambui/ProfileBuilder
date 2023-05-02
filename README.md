@@ -18,5 +18,18 @@ Some of our services are free of charge, while others require a one-time or ongo
 Thank you for considering our services!
 
 
+Homepage
+![image](https://user-images.githubusercontent.com/112067611/235733558-9aeee8c0-01b1-4704-8c5c-4aabcef13d08.png)
+
+
+Register page
+![image](https://user-images.githubusercontent.com/112067611/235733643-05b3b539-cde2-4b9e-bde5-a4cc57150506.png)
+
+
+Login page
+![image](https://user-images.githubusercontent.com/112067611/235733723-9f0666e5-c4ca-410b-ba1e-179793e1bd5e.png)
+
+
+
 
 
